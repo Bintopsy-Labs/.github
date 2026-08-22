@@ -20,3 +20,4 @@ For research collaborations, tool access, or commercial use, contact us at **bin
 ## Get in touch!
 
 - Email: bintopsylabs@national.shitposting.agency
+- Our gpg key: https://keys.openpgp.org/vks/v1/by-fingerprint/7D3C1B382C3FB34DCA9CF8FE2BC7FDFE813B5442
